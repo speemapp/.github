@@ -1,4 +1,4 @@
-# SPEEM app- Serverless Peer-to-peer & End-to-end Encrypted Messaging 
+# SPEEM app - Serverless Peer-to-peer & End-to-end Encrypted Messaging 
 
 ## :warning: :construction: Under Active Development :construction: :warning:
 
@@ -55,6 +55,4 @@ The PoC aims to demonstrate the feasibility of a serverless, privacy-focused mes
 
 SPEEM is a project developed by [Wassim Mansouri](https://wassimans.com), in the open. To learn more about the project, visit our [GitHub repository](https://github.com/speemapp).
 
----
 
-© 2024 SPEEM app. All rights reserved.
